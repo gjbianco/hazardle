@@ -1,0 +1,2529 @@
+[
+ {
+   "chemical": "Acetaldehyde",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Acetic acid (glacial)",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Acetic anhydride",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Acetone",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Acetone cyanohydrin",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Acetonitrile",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Acetophenone",
+   "health": 1,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Acetyl chloride",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Acetylene",
+   "health": 1,
+   "fire": 4,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Acrolein, inhibited",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Acrylamide",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Acrylic acid (glacial)",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Acrylonitrile",
+   "health": 4,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Adiponitrile",
+   "health": 4,
+   "fire": 2,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Alkylaluminums",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 3,
+   "special": "w"
+ },
+ {
+   "chemical": "Ally Chlorocarbonate",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Ally alcohol",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Ally bromide",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Ally chloride",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Allylamine",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Aluminum",
+   "health": 0,
+   "fire": 1,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Aluminum Chloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Aluminum Phosphide",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Ammonia (anhydrous)",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Ammonium Dichromate",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Ammonium Fluoride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Ammonium Nitrate",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 3,
+   "special": "ox"
+ },
+ {
+   "chemical": "Ammonium Perchlorate",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 4,
+   "special": "ox"
+ },
+ {
+   "chemical": "Ammonium Permanganate",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 3,
+   "special": "ox"
+ },
+ {
+   "chemical": "Amyl Mercaptan",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Amyl Nitrate",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Amylamine",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Aniline",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Antimony pentachloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Antimony Pentafluoride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Antimony Sulfide, solid",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Arsenic Pentafluoride",
+   "health": 4,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Arsenic Pentoxide",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Arsenic Trichloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Arsenic Trioxide",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Arsenic Trisulfide",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Arsine",
+   "health": 4,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Barium Chlorate",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Benzaldehyde",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Benzene",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Benzotrifluoride",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Benzoyl Chloride",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Beryllium Metal",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Boron Tribromide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Boron Trifluoride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Bromine",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": "ox"
+ },
+ {
+   "chemical": "Bromine Pentafluoride",
+   "health": 4,
+   "fire": 0,
+   "reactivity": 3,
+   "special": "w, ox"
+ },
+ {
+   "chemical": "Bromine Trifluoride",
+   "health": 4,
+   "fire": 0,
+   "reactivity": 3,
+   "special": "w, ox"
+ },
+ {
+   "chemical": "Bromopentane, 1-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Bromopropyne, 3-",
+   "health": 4,
+   "fire": 3,
+   "reactivity": 4,
+   "special": ""
+ },
+ {
+   "chemical": "Butadiene, inhibited",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Butanol, 1-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Butanol, 2-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Butyl Acrylate, inhibited",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Butyl Ether",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Butyl acetate, n-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Butyl acetate, s-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Butylamine",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Butylene Oxide",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Butyllithium",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Butyraldehyde",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Butyric Acid",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Calcium Carbide",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Calcium Chlorate",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "__ ox"
+ },
+ {
+   "chemical": "Calcium Cyanide, solid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Calcium Hypochlorite",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "ox"
+ },
+ {
+   "chemical": "Calcium Oxide",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Calcium, metal",
+   "health": 1,
+   "fire": 1,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Carbon Disulfide",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Carbon Monixide",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Carbon Tetrachloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Chlorine",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": "ox"
+ },
+ {
+   "chemical": "Chlorine Trifluoride",
+   "health": 4,
+   "fire": 0,
+   "reactivity": 3,
+   "special": "w, ox"
+ },
+ {
+   "chemical": "Chloroacetic Acid",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Chloroacetonitrile",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Chloroacetyl Chloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Chlorobenzene",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Chlorodiethyl Silane",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Chloroform",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Chlorophenols, liquid",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Chlorophenols, solids",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Chloropicrin, liquid",
+   "health": 4,
+   "fire": 0,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Chlorosilanes",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Chlorosulfonic Acid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w, ox"
+ },
+ {
+   "chemical": "Chromic Acid, solid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Chromic chloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Chromyl Chloride",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Cresol(o-, m-, p-)",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Crotonaldehyde",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Cumene",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Cyanoacetic Acid",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Cyanogen Bromide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Cyanogen Gas",
+   "health": 4,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Cyclohexane",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Cyclohexanol",
+   "health": 1,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Cyclohexanone",
+   "health": 1,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Cyclohexylamine",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Decaborane",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Diamylamine",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Diborane",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 3,
+   "special": "w"
+ },
+ {
+   "chemical": "Dibutylamine",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Dichloroacetyl Chloride",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Dichloroanilines",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Dichlorobenzene",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Dichlorobutane, 1, 4-",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Dichlorodimethylether",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Dichloroethyl Ether, 2, 2-",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Dichloroethylene",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Dichloropropene, 1, 3-",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Dichlorosilane",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Diesel fuel (No. 1, 2 and 4)",
+   "health": 0,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Diethyl Sulfate",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Diethyl Telluride",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 3,
+   "special": "w"
+ },
+ {
+   "chemical": "Diethylaluminum Chloride",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 3,
+   "special": "w"
+ },
+ {
+   "chemical": "Diethylamine",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Diethylenetriamine",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Diethylzinc",
+   "health": 1,
+   "fire": 4,
+   "reactivity": 3,
+   "special": "w"
+ },
+ {
+   "chemical": "Diisopropyl Ether",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Diisopropylamine",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Diketene, inhibited",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Dimethyl Ether",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Dimethyl Sulfate",
+   "health": 4,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Dimeethyl Sulfide",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Dimethylamine",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Dimethylhydrazine",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Dinitroaniline, 2, 4-",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Dinitrobenzene, 1, 2-",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 4,
+   "special": ""
+ },
+ {
+   "chemical": "Dinitrochlorobenzene",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 4,
+   "special": ""
+ },
+ {
+   "chemical": "Dinitrotoluene",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Dioxane, 1, 4-",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Divinylbenzene",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Epichlorohydrin",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Ethyl Acrylate, inhibited",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Ethyl Chloride",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Ethyl Chloroformate",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Ethyl Ether",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Ethyl Methyl Ether",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Ethyl Nitrite",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 4,
+   "special": ""
+ },
+ {
+   "chemical": "Ethyl Trichlorosilane",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Ethyl acetate",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Ethylaniline, N-",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Eathylbenzene",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Ethylene",
+   "health": 1,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Ethylene Chlorohydrin",
+   "health": 4,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Ethylene Cyanohydrin",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Ethylene Dibromide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Ethylene Dichloride",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Ethylene Oxide",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Ethylenediamine",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Ethyleneimine, inhibited",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Ethylhexyl Acrylate, 2-",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Fluoboric Acid",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Fluorine",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 4,
+   "special": "w"
+ },
+ {
+   "chemical": "Formaldehyde, anhydrous",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Formaldehyde, aqueous",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Formic Acid",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Fuel oil (Nos. 1-6)",
+   "health": 0,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Furfural",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Gallium Arsenide",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Gallium Phosphide",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Gallium Trichloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Gasoline",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Germane",
+   "health": 4,
+   "fire": 4,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Heptane, n-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Hexamethyldisilazane",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Hexane, n-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Hexanol, n-",
+   "health": 1,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Hydrazine, anhydrous",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Hydroidic Acid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Hydrobromic Acid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Hydrogen Chloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Hydrogen Cyanide",
+   "health": 4,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Hydrogen Fluoride",
+   "health": 4,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Hydrogen Peroxide (35-52%)",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Hydrogen Peroxide (>52%)",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 3,
+   "special": "ox"
+ },
+ {
+   "chemical": "Hydrogen Sulfide",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Hydrogen, gas",
+   "health": 0,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Hydrogen, liquefied",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Hydroxylamine",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Isobutyl acetate",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Isophorone",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Isoprene",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Isopropanol",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Isopropyl Formate",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Isopropylamine",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Kerosene",
+   "health": 0,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Lead Arsenates",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Lithium Alunimum Hydride",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Lithium Hydride",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Lithium Metal",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Magnesium (+alloys)",
+   "health": 0,
+   "fire": 1,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Maleic Anhydride",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Mercuric Cyanide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Mesityl Oxide",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Methacrylic Acid, inhibited",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl Acrylate, inhibited",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl Bromide",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl Butyraldehyde, 2-",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl Chloride",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl Chloromethyl Ether",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl cyclopenate",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl Formate",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl Hydrazine",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl Isocyanate",
+   "health": 4,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl methacrylate",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl Vinyl Ketone, inhibited",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl acetate",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl alcohol",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl ethyl keetone",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl mercaptan",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl-1-butene, 3-",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl-2-butanol, 2-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl-2-butanol, 3-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl-2-propanol, 2-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyl-5-Pyridine, 2-",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methylamine, anhydrous",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyldichlorosilane",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Methylene Chloride",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Methyltrichlorosilane",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Monochloro-s-Triazinetrione Acid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w, ox"
+ },
+ {
+   "chemical": "Monoethanolamine",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Monoethylamine",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Morpholine",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Napthalene",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Natural Gas, gas",
+   "health": 0,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Natural Gas, liquid",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Nickel Carbonyl",
+   "health": 4,
+   "fire": 3,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Nickel Catalyst, dry",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Nitric Acid, >40%",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": "ox"
+ },
+ {
+   "chemical": "Nitric Acid, fuming",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Nitroaniline, p-",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Nitrobenzene, liquid",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Nitrocellulose, alcohol wet",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Nitrocellulose, colloided",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Nitrocellulose, water wet",
+   "health": 1,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Nitrochlorobenzene",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Nitroethane",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Nitrogen oxides",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": "ox"
+ },
+ {
+   "chemical": "Nitrogen, refrig liquid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Nitromethane",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 4,
+   "special": ""
+ },
+ {
+   "chemical": "Nitrophenol, p-",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Nitropropane",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Nitrotoluene, o-, m-, p-",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Octane",
+   "health": 0,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Octyl alcohol",
+   "health": 1,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Oxalic Acid, dihydrate",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Oxygen, gas",
+   "health": 0,
+   "fire": 0,
+   "reactivity": 0,
+   "special": "ox"
+ },
+ {
+   "chemical": "Oxygen, liquid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": "ox"
+ },
+ {
+   "chemical": "Paraformaldehyde",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Paraldehyde",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Pentaborane",
+   "health": 4,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Pentachlorophenol",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Pentane",
+   "health": 1,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Pentanol, 1-",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Pentanol, 2-",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Pentanol, 3-",
+   "health": 1,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Pentenel, 1-",
+   "health": 1,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Peracetic Acid >40%",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 4,
+   "special": "ox"
+ },
+ {
+   "chemical": "Perchloric Acid (>50%>72%)",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 3,
+   "special": "ox"
+ },
+ {
+   "chemical": "Petroleum crude",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Petroleum ether",
+   "health": 1,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Phenol",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Phenylethanolamine",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Phenylmercuric Acetate, dry",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Phenylmercuric Acetate, organic",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Phosphorus Oxychloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Phosphorus Pentachloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Phosphorus Pentasulfide",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Phosphorus Tribromide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Phosphorus Trichloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Phosphorus, amorphous, red",
+   "health": 1,
+   "fire": 1,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Phthalic Anhydride",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Picric Acid, 10% water",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 4,
+   "special": ""
+ },
+ {
+   "chemical": "Polychlorinated Biphenyls",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Potassium Chlorate",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Potassium Cyanide, solid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Potassium Dichloro-s-Triazinetrione",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "ox"
+ },
+ {
+   "chemical": "Potassium Hydroxide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Potassium Perchlorate",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Potassium Peroxide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Potassium Sulfide",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Potassium, metal",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Propargyl Alcohol",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Propionaldehyde",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Propionic Acid",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Propionic Anhydride",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Propyl Nitrate",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 3,
+   "special": "ox"
+ },
+ {
+   "chemical": "Propyl acetate",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Propylamine, n-",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Propylene",
+   "health": 1,
+   "fire": 4,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Propylene Dichloride",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Propylene Oxide",
+   "health": 4,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Propyltrichlorosilane",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Pyridine",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Pyroxylin Plastic",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Silane",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Silane, (4-Aminobutyl)-Diethoxymethyl",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Silicon Tetrachloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Silicon Tetrafluoride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Sodium Chlorate",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Sodium Chlorite",
+   "health": 1,
+   "fire": 1,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Sodium Cyanide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Sodium Dichloro-s-Triazinetrione and Dihydra",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w, ox"
+ },
+ {
+   "chemical": "Sodium Fluoride",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Sodium Hydride",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Sodium Hydrosulfite",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Sodium Hydroxide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Sodium Perchlorate",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Sodium Peroxide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Sodium Potassium Alloys",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Sodium Sulfide, anhydrous",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Sodium, metal",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Stibine",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Styrene monomer, inhibited",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Sulfur Dioxide",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Sulfur Monochloride",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Sulfur, dry",
+   "health": 1,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Sulfur, molten",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Sulfuric Acid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Sulfuryl Chloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Tetrachloroethylene",
+   "health": 2,
+   "fire": 0,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Tetrafluorethylene (monomer, inhibited)",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Tetrahydrofuran",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Tetrahydronaphthalene",
+   "health": 1,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Tetramethoxysilane",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Thionyl Chloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Tin Tetrachloride, anhydrous",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Titanium Tetrachloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Toluene",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Toluene, 2, 4-Disocyanate",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Toluidine, o-",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Toluidine, p-",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Tributylamine",
+   "health": 3,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Trichloroethane, 1, 1, 2-",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Trichloroethylene",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Trichloroisocyanuric Acid",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "ox"
+ },
+ {
+   "chemical": "Trichlorosilane",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Triethylaluminum",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 3,
+   "special": "w"
+ },
+ {
+   "chemical": "Triethylamine",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Triisobutylaluminum",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 3,
+   "special": "w"
+ },
+ {
+   "chemical": "Trimethoxxysilane",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Trimethylamine",
+   "health": 3,
+   "fire": 4,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Tripentylamine",
+   "health": 2,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Turpentine",
+   "health": 1,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Vanadium Tetrachloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ },
+ {
+   "chemical": "Vinyl Acetate",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Vinyl Acetylene",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 3,
+   "special": ""
+ },
+ {
+   "chemical": "Vinyl Chloride",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Vinyl Ether",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Vinylidene Chloride, inhibited",
+   "health": 2,
+   "fire": 4,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Vinyltoluene",
+   "health": 2,
+   "fire": 2,
+   "reactivity": 2,
+   "special": ""
+ },
+ {
+   "chemical": "Xylenes, o-, m-, p-",
+   "health": 2,
+   "fire": 3,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Zylidine, o-",
+   "health": 3,
+   "fire": 1,
+   "reactivity": 0,
+   "special": ""
+ },
+ {
+   "chemical": "Zinc Chlorate",
+   "health": 1,
+   "fire": 0,
+   "reactivity": 1,
+   "special": "ox"
+ },
+ {
+   "chemical": "Zinc Phosphide",
+   "health": 3,
+   "fire": 3,
+   "reactivity": 1,
+   "special": ""
+ },
+ {
+   "chemical": "Zirconium Tetrachloride",
+   "health": 3,
+   "fire": 0,
+   "reactivity": 2,
+   "special": "w"
+ }
+]

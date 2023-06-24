@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import hazards from "./hazards.json";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+export default function App() {
+  const randomIndex = Math.floor((Math.random() * 1000) % hazards.length) - 1;
+  console.log(
+    `Displaying random hazard with index ${randomIndex}:`,
+    hazards[randomIndex]
   );
+  return <HazardDiamond hazard={hazards[randomIndex]}></HazardDiamond>;
 }
 
-export default App;
+type Hazard = {
+  chemical: string;
+  health: number;
+  fire: number;
+  reactivity: number;
+  special: string;
+};
+function HazardDiamond(props: { hazard: Hazard }) {
+  const { chemical, health, fire, reactivity, special } = props.hazard;
+  return (
+    <>
+      <div>Chemical: {chemical}</div>
+      <div>Health: {health}</div>
+      <div>Fire: {fire}</div>
+      <div>Reactivity: {reactivity}</div>
+      <div>Special: {special || "None"}</div>
+    </>
+  );
+}
